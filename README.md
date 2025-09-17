@@ -14,7 +14,7 @@ A responsive multipage website built with HTML5, CSS3, and JavaScript.
 - Semantic HTML5 structure
 
 ## Deployment
-Live site: [https://oroyinloye.github.io/Wk-8-WebAssignment](https://oroyinloye.github.io/Wk-8-WebAssignment)
+Live site: https://oroyinloye.github.io/Wk-8-WebAssignment
 
 ## How to Run Locally
 1. Clone the repo
