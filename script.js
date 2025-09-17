@@ -34,9 +34,9 @@ if (form) {
 }
 // Image slider logic
 const sliderImages = [
-    'D:\USB Drive\ \FROM drive C\Wk-8-WebAssignment/slider1.jpg',
-    'D:\USB Drive\ \FROM drive C\Wk-8-WebAssignment/slider2.jpg',
-    'D:\USB Drive\ \FROM drive C\Wk-8-WebAssignment/slider3.jpg'
+    'https://github.com/oroyinloye/Wk-8-WebAssignment/blob/main/slider1.jpg',
+    'https://github.com/oroyinloye/Wk-8-WebAssignment/blob/main/slider2.jpg',
+    'https://github.com/oroyinloye/Wk-8-WebAssignment/blob/main/slider3.jpg'
 ];
 
 let currentIndex = 0;
