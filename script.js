@@ -34,9 +34,9 @@ if (form) {
 }
 // Image slider logic
 const sliderImages = [
-    'https://github.com/oroyinloye/Wk-8-WebAssignment/slider1.jpg',
-    'https://github.com/oroyinloye/Wk-8-WebAssignment/slider2.jpg',
-    'https://github.com/oroyinloye/Wk-8-WebAssignment/slider3.jpg'
+    'https://oroyinloye.github.io/Wk-8-WebAssignment/slider1.jpg',
+    'https://oroyinloye.github.io/Wk-8-WebAssignment/slider2.jpg',
+    'https://oroyinloye.github.io/Wk-8-WebAssignment/slider3.jpg'
 ];
 
 let currentIndex = 0;
